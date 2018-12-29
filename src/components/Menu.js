@@ -59,11 +59,6 @@ const Menu = () => {
               About
             </Link>
           </li>
-          <li>
-            <Link to="/contact/" activeStyle={activeLinkStyle}>
-              Contact
-            </Link>
-          </li>
         </ul>
       </Nav>
     </Header>
